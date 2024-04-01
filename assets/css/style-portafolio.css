@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(43, 226, 220);
+}
+.logo{
+    width: 10vw;
+}
+.nav-link:hover{
+ color: rgba(143,62,218,0.83);
+}
+.btn-master{
+    background-color: rgb(70, 255, 233);
+    border-color: brown;
+    &:hover{
+        background-color: chocolate;
+    }
+}
