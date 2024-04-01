@@ -35,6 +35,9 @@ body{
     color: #bd2dff;
     font-style: italic;
 }
+#Contacto h4{
+    color:rgba(248, 166, 73, 0.83);
+}
 #Contacto form label {
     font-weight: 700;
     color: #373a3c;
