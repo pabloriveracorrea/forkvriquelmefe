@@ -1,0 +1,42 @@
+body{
+    background-color: #373a3c;
+}
+
+.logo{
+    width: 10vw;
+}
+.nav-link:hover{
+ color: rgba(143,62,218,0.83);
+}
+#header{
+    background-image: url(../img/sentada-pasto.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+  
+}
+.header-title{
+    color: whitesmoke;
+    text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
+}
+.btn-morado{
+    background-color: blueviolet;
+    border-color:darkorchid;
+
+}
+.accordion{
+    --bs-accordion-active-color: #860999;
+    --bs-accordion-active-bg: #d99a71ba;
+}
+.accordion-button{
+    background-color: #a218f952;
+}
+.title-section{
+    color: #bd2dff;
+    font-style: italic;
+}
+#Contacto form label {
+    font-weight: 700;
+    color: #373a3c;
+  }
+  
