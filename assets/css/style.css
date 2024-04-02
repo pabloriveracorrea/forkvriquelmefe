@@ -12,11 +12,18 @@ body{
     background-image: url(../img/sentada-pasto.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+
     
   
 }
+
 .header-title{
     color: whitesmoke;
+    text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
+}
+.subtitle-header{
+
+    color: black;
     text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
 }
 .btn-morado{
