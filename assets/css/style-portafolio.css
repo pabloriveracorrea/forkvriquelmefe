@@ -46,6 +46,7 @@ body {
 }
 .btn-master{
     background-color: rgb(186, 100, 176);
+    width: inherit;
     border:none;
     &:hover{
         background-color: rgb(87, 35, 216);
