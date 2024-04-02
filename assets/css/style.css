@@ -22,6 +22,11 @@ body{
 .btn-morado{
     background-color: blueviolet;
     border-color:darkorchid;
+    &:hover{
+        background-color: rgb(62, 9, 76);
+        color: white;
+        font-weight: bold;
+    }
 
 }
 .accordion{

@@ -14,6 +14,15 @@ body{
 #Header{
     background-color: azure;
     border-radius: 80% 30%;
+    background-image: url(../img/sentada-pasto.jpg);
+    background-size: cover;
+    h1{
+
+        text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
+    }
+}
+.text-purple{
+    color: rgb(186, 100, 176);
 }
 .btn-master{
     background-color: rgb(186, 100, 176);
@@ -27,17 +36,14 @@ body{
 .row{
     justify-content: space-evenly;
 }
-.imagen-header{
-    width: 50vw;
-    border-radius: 20% 80% 150% 30%;
-}
 #Proyectos{
 
     padding: 2rem;
 }
 .title-proyectos{
-    color:rgb(241, 196, 164);
+    color: rgb(148, 19, 133);
 }
+
 
 .card{
     --bs-card-bg: #f9cdffa1;
