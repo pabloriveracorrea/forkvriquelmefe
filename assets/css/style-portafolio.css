@@ -1,13 +1,19 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(21, 112, 109);
+    background-color: rgb(14 158 153);
 }
+
 .logo{
-    width: 10vw;
+    width: 15vw;
+    
 }
 .nav-link:hover{
  color: rgba(143,62,218,0.83);
+}
+#Header{
+    background-color: azure;
+    border-radius: 50% 10%;
 }
 .btn-master{
     background-color: rgb(70, 255, 233);
@@ -16,10 +22,25 @@ body{
         background-color: rgb(203, 119, 58);
     }
 }
+.row{
+    justify-content: space-evenly;
+}
 .imagen-header{
     width: 50vw;
     border-radius: 20% 80% 150% 30%;
 }
+#Proyectos{
+
+    padding: 2rem;
+}
 .title-proyectos{
     color:rgb(241, 196, 164);
+}
+
+.card{
+    --bs-card-bg: #f9cdffa1;
+    padding: 0;
+}
+.card-img-top{
+    height: 40vh;
 }
