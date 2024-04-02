@@ -31,6 +31,11 @@ body{
 .accordion-button{
     background-color: #a218f952;
 }
+.list-group-item{
+    background-color: #e3bdfae3;
+    border: var(--bs-list-group-border-width) solid #d376ff;
+
+}
 .title-section{
     color: #bd2dff;
     font-style: italic;
