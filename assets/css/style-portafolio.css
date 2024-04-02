@@ -13,13 +13,15 @@ body{
 }
 #Header{
     background-color: azure;
-    border-radius: 50% 10%;
+    border-radius: 80% 30%;
 }
 .btn-master{
-    background-color: rgb(70, 255, 233);
-    border-color: brown;
+    background-color: rgb(186, 100, 176);
+    border:none;
     &:hover{
-        background-color: rgb(203, 119, 58);
+        background-color: rgb(87, 35, 216);
+        color: white;
+        font-weight: bold;
     }
 }
 .row{
