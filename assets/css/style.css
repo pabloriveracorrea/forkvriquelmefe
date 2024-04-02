@@ -11,7 +11,7 @@ body{
 #header{
     background-image: url(../img/sentada-pasto.jpg);
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     
   
 }
