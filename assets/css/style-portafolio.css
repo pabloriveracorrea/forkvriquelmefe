@@ -44,6 +44,11 @@ body {
 .text-purple{
     color: rgb(186, 100, 176);
 }
+.subtitle-header{
+    font-size: 1.8em;
+        color: black;
+        text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
+    }
 .btn-master{
     background-color: rgb(186, 100, 176);
     width: inherit;
