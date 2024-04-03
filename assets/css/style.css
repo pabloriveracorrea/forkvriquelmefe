@@ -76,4 +76,25 @@ hr {
     font-weight: 700;
     color: #373a3c;
   }
+  .redes{
+    /* border:1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .redes-link{
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid blue; */
+    margin-left: 20px;
+  }
+  .redes-link.github{
+    background-image: url(../img/icons8-github.svg);
+    background-size: 50px 50px;
+  }
+  .redes-link.linkedin{
+    background-image: url(../img/icons8-linkedin\ \(1\).svg);
+    background-size: 50px 50px;
+  }
   

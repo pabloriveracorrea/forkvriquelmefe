@@ -49,11 +49,21 @@ body {
     text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
 }
 .btn-master{
-    background-color: rgb(186, 100, 176);
+    background-color: rgb(235, 159, 252);
+    border-color:rgb(135, 46, 180);
+    color: #680993;
     width: inherit;
-    border:none;
     &:hover{
         background-color: rgb(87, 35, 216);
+        color: white;
+        font-weight: bold;
+    }
+}
+.btn-curriculum {
+    background-color: #680993;
+    color: rgb(235, 159, 252);
+    &:hover{
+        background-color: rgb(62, 9, 76);
         color: white;
         font-weight: bold;
     }
