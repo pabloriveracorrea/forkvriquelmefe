@@ -35,6 +35,7 @@ body {
 #Header{
     background-image: url(../img/sentada-pasto.jpg);
     background-size: cover;
+    margin-top: 15vh;
     h1{
 
         text-shadow: 4px 2px 4px rgba(143,62,218,0.83);
